@@ -1,11 +1,11 @@
 
 ## NeedleChain: Measuring Intact Long-Context Reasoning Capability of Large Language Models
 
-<!-- <p align="center">
+<p align="center">
 🤗 <a href="https://huggingface.co/datasets/hyeonsss/needlechain"> Dataset on HuggingFace </a>
 <br>
     📄 <a href="https://arxiv.org/abs/2507.22411"> Official Paper </a>
-<br> -->
+<br>
 
 <p align="center">
   <img src="asset/needlechain.png" width="800"/>
